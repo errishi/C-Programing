@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "L-9_class.C": "cpp",
+        "conio.h": "c"
+    },
+    "cmake.clearOutputBeforeBuild": true,
+    "code-runner.clearPreviousOutput": false,
+    "C_Cpp.errorSquiggles": "disabled"
+}
